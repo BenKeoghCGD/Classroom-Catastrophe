@@ -1,0 +1,2097 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-05-31T22:30:50.041+01:00
+  initializedAtString: 2020-05-31T22:30:50.041+01:00
+  entries:
+  - path: APBuild\Classroom Catastrophe.exe
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe.exe
+    projectPath: APBuild\Classroom Catastrophe.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\app.info
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\app.info
+    projectPath: APBuild\Classroom Catastrophe_Data\app.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\boot.config
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\boot.config
+    projectPath: APBuild\Classroom Catastrophe_Data\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\globalgamemanagers
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\globalgamemanagers
+    projectPath: APBuild\Classroom Catastrophe_Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\globalgamemanagers.assets
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\globalgamemanagers.assets
+    projectPath: APBuild\Classroom Catastrophe_Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\globalgamemanagers.assets.resS
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\globalgamemanagers.assets.resS
+    projectPath: APBuild\Classroom Catastrophe_Data\globalgamemanagers.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\level0
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\level0
+    projectPath: APBuild\Classroom Catastrophe_Data\level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\level1
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\level1
+    projectPath: APBuild\Classroom Catastrophe_Data\level1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\level1.resS
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\level1.resS
+    projectPath: APBuild\Classroom Catastrophe_Data\level1.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\Assembly-CSharp.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\Mono.Security.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\mscorlib.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\mscorlib.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\netstandard.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\netstandard.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Configuration.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Configuration.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Core.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Core.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Data.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Data.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Drawing.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Drawing.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.EnterpriseServices.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Globalization.Extensions.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Globalization.Extensions.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.IO.Compression.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Net.Http.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Net.Http.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Numerics.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Numerics.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Transactions.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Transactions.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Xml.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Xml.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Xml.Linq.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\Unity.Timeline.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UI.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.XRModule.dll
+    projectPath: APBuild\Classroom Catastrophe_Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\resources.assets
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\resources.assets
+    projectPath: APBuild\Classroom Catastrophe_Data\resources.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\resources.assets.resS
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\resources.assets.resS
+    projectPath: APBuild\Classroom Catastrophe_Data\resources.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Resources\unity default resources
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Resources\unity
+      default resources
+    projectPath: APBuild\Classroom Catastrophe_Data\Resources\unity default resources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\Resources\unity_builtin_extra
+    projectPath: APBuild\Classroom Catastrophe_Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\sharedassets0.assets
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\sharedassets0.assets
+    projectPath: APBuild\Classroom Catastrophe_Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\sharedassets0.assets.resS
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\sharedassets0.assets.resS
+    projectPath: APBuild\Classroom Catastrophe_Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\sharedassets1.assets
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\sharedassets1.assets
+    projectPath: APBuild\Classroom Catastrophe_Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\sharedassets1.assets.resS
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\sharedassets1.assets.resS
+    projectPath: APBuild\Classroom Catastrophe_Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Classroom Catastrophe_Data\sharedassets1.resource
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Classroom Catastrophe_Data\sharedassets1.resource
+    projectPath: APBuild\Classroom Catastrophe_Data\sharedassets1.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    projectPath: APBuild\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: APBuild\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\2.0\machine.config
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\2.0\machine.config
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\2.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\2.0\settings.map
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\2.0\settings.map
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\2.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\2.0\web.config
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\2.0\web.config
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\2.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.0\machine.config
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.0\machine.config
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.0\settings.map
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.0\settings.map
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.0\web.config
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.0\web.config
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.5\machine.config
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.5\machine.config
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.5\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.5\settings.map
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.5\settings.map
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.5\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\4.5\web.config
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\4.5\web.config
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\4.5\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\browscap.ini
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\browscap.ini
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\browscap.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\config
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\config
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    projectPath: APBuild\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\Rachel-1.0.0-AP2.zip
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\Rachel-1.0.0-AP2.zip
+    projectPath: APBuild\Rachel-1.0.0-AP2.zip
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\UnityCrashHandler32.exe
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\UnityCrashHandler32.exe
+    projectPath: APBuild\UnityCrashHandler32.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: APBuild\UnityPlayer.dll
+    fullPath: C:\Users\User\Desktop\Rachel\APBuild\UnityPlayer.dll
+    projectPath: APBuild\UnityPlayer.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CreditsScript.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\CreditsScript.cs
+    projectPath: Assets\CreditsScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CreditsScript.cs.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\CreditsScript.cs.meta
+    projectPath: Assets\CreditsScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ICO.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\ICO.png
+    projectPath: Assets\ICO.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ICO.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\ICO.png.meta
+    projectPath: Assets\ICO.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Untitled-1.mat
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Untitled-1.mat
+    projectPath: Assets\Materials\Untitled-1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Untitled-1.mat.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Untitled-1.mat.meta
+    projectPath: Assets\Materials\Untitled-1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Can.fbx
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Can.fbx
+    projectPath: Assets\Models\Can.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Can.fbx.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Can.fbx.meta
+    projectPath: Assets\Models\Can.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Glasses Export.fbx
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Glasses Export.fbx
+    projectPath: Assets\Models\Glasses Export.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Glasses Export.fbx.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Glasses Export.fbx.meta
+    projectPath: Assets\Models\Glasses Export.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\set of draws.fbx
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\set of draws.fbx
+    projectPath: Assets\Models\set of draws.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\set of draws.fbx.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\set of draws.fbx.meta
+    projectPath: Assets\Models\set of draws.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Credits.unity
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Credits.unity
+    projectPath: Assets\Scenes\Credits.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Credits.unity.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Credits.unity.meta
+    projectPath: Assets\Scenes\Credits.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game.unity
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Game\NavMesh.asset
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Game\NavMesh.asset
+    projectPath: Assets\Scenes\Game\NavMesh.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\MainMenu.unity
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\MainMenu.unity
+    projectPath: Assets\Scenes\MainMenu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\CHALLENGES\AHDLinks.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\AHDLinks.meta
+    projectPath: Assets\Scripts\CHALLENGES\AHDLinks.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CHALLENGES\Challenge.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Challenge.cs
+    projectPath: Assets\Scripts\CHALLENGES\Challenge.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\CHALLENGES\Level1Task1.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Level1Task1.cs
+    projectPath: Assets\Scripts\CHALLENGES\Level1Task1.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CHALLENGES\Level1Task1.cs.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Level1Task1.cs.meta
+    projectPath: Assets\Scripts\CHALLENGES\Level1Task1.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CHALLENGES\Level1Task3.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Level1Task3.cs
+    projectPath: Assets\Scripts\CHALLENGES\Level1Task3.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CHALLENGES\Level1Task3.cs.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Level1Task3.cs.meta
+    projectPath: Assets\Scripts\CHALLENGES\Level1Task3.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CHALLENGES\Level2Task1.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Level2Task1.cs
+    projectPath: Assets\Scripts\CHALLENGES\Level2Task1.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CHALLENGES\Level2Task1.cs.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Level2Task1.cs.meta
+    projectPath: Assets\Scripts\CHALLENGES\Level2Task1.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CHALLENGES\TestChallenge.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\TestChallenge.cs
+    projectPath: Assets\Scripts\CHALLENGES\TestChallenge.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\CHALLENGES\TestChallenge.cs.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\TestChallenge.cs.meta
+    projectPath: Assets\Scripts\CHALLENGES\TestChallenge.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\CLOUT\CloutIndicator.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CLOUT\CloutIndicator.cs
+    projectPath: Assets\Scripts\CLOUT\CloutIndicator.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\HidingSpot.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\HidingSpot.cs
+    projectPath: Assets\Scripts\HidingSpot.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\HidingSpot.cs.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\HidingSpot.cs.meta
+    projectPath: Assets\Scripts\HidingSpot.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Highlight.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\Highlight.cs
+    projectPath: Assets\Scripts\Highlight.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Highlight.cs.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\Highlight.cs.meta
+    projectPath: Assets\Scripts\Highlight.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PAUSE\PauseScript.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PAUSE\PauseScript.cs
+    projectPath: Assets\Scripts\PAUSE\PauseScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\PLAYER\AbilityHitDetector.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PLAYER\AbilityHitDetector.cs
+    projectPath: Assets\Scripts\PLAYER\AbilityHitDetector.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\PLAYER\playerMovement.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PLAYER\playerMovement.cs
+    projectPath: Assets\Scripts\PLAYER\playerMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\SOUND\SoundManager.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\SOUND\SoundManager.cs
+    projectPath: Assets\Scripts\SOUND\SoundManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\TEACHER\ABILITIES\Scan.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\TEACHER\ABILITIES\Scan.cs
+    projectPath: Assets\Scripts\TEACHER\ABILITIES\Scan.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\UTILITIES\FpsCounter.cs
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES\FpsCounter.cs
+    projectPath: Assets\Scripts\UTILITIES\FpsCounter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\UTILITIES\FpsCounter.cs.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES\FpsCounter.cs.meta
+    projectPath: Assets\Scripts\UTILITIES\FpsCounter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Drinking.mp3
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Drinking.mp3
+    projectPath: Assets\Sounds\Drinking.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Drinking.mp3.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Drinking.mp3.meta
+    projectPath: Assets\Sounds\Drinking.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Heavy-Door-Lock--Locking--1-www.fesliyanstudios.com.mp3
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Heavy-Door-Lock--Locking--1-www.fesliyanstudios.com.mp3
+    projectPath: Assets\Sounds\Heavy-Door-Lock--Locking--1-www.fesliyanstudios.com.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\Heavy-Door-Lock--Locking--1-www.fesliyanstudios.com.mp3.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Heavy-Door-Lock--Locking--1-www.fesliyanstudios.com.mp3.meta
+    projectPath: Assets\Sounds\Heavy-Door-Lock--Locking--1-www.fesliyanstudios.com.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Splash.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Splash.png
+    projectPath: Assets\Splash.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Splash.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Splash.png.meta
+    projectPath: Assets\Splash.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TaskDevelopmentAPI\Game.unity
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\TaskDevelopmentAPI\Game.unity
+    projectPath: Assets\TaskDevelopmentAPI\Game.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\UI\Alert.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Alert.meta
+    projectPath: Assets\UI\Alert.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Alert\Untitled-1.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Alert\Untitled-1.png
+    projectPath: Assets\UI\Alert\Untitled-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Alert\Untitled-1.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Alert\Untitled-1.png.meta
+    projectPath: Assets\UI\Alert\Untitled-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Clout\CloutIcon.asset
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\CloutIcon.asset
+    projectPath: Assets\UI\Clout\CloutIcon.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\UI\Clout\CloutIcon.asset.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\CloutIcon.asset.meta
+    projectPath: Assets\UI\Clout\CloutIcon.asset.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\UI\Clout\CloutIcon.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\CloutIcon.png
+    projectPath: Assets\UI\Clout\CloutIcon.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\UI\Clout\CloutIcon.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\CloutIcon.png.meta
+    projectPath: Assets\UI\Clout\CloutIcon.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\UI\Clout\LikeSystem.asset
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\LikeSystem.asset
+    projectPath: Assets\UI\Clout\LikeSystem.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\UI\Clout\LikeSystem.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\LikeSystem.png
+    projectPath: Assets\UI\Clout\LikeSystem.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\UI\HidingSpots.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots.meta
+    projectPath: Assets\UI\HidingSpots.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table.meta
+    projectPath: Assets\UI\HidingSpots\Table.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\active.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\active.png
+    projectPath: Assets\UI\HidingSpots\Table\active.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\active.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\active.png.meta
+    projectPath: Assets\UI\HidingSpots\Table\active.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\inactive.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\inactive.png
+    projectPath: Assets\UI\HidingSpots\Table\inactive.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\inactive.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\inactive.png.meta
+    projectPath: Assets\UI\HidingSpots\Table\inactive.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\Materials.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\Materials.meta
+    projectPath: Assets\UI\HidingSpots\Table\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\Materials\active.mat
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\Materials\active.mat
+    projectPath: Assets\UI\HidingSpots\Table\Materials\active.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\Materials\active.mat.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\Materials\active.mat.meta
+    projectPath: Assets\UI\HidingSpots\Table\Materials\active.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\Materials\inactive.mat
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\Materials\inactive.mat
+    projectPath: Assets\UI\HidingSpots\Table\Materials\inactive.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\HidingSpots\Table\Materials\inactive.mat.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\HidingSpots\Table\Materials\inactive.mat.meta
+    projectPath: Assets\UI\HidingSpots\Table\Materials\inactive.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Menus\title screen 1.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus\title screen 1.png
+    projectPath: Assets\UI\Menus\title screen 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Menus\title screen 1.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus\title screen 1.png.meta
+    projectPath: Assets\UI\Menus\title screen 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Menus\title screen.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus\title screen.png
+    projectPath: Assets\UI\Menus\title screen.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\UI\Menus\title screen.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus\title screen.png.meta
+    projectPath: Assets\UI\Menus\title screen.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\UI\Progress-Bar-Vertical.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-Bar-Vertical.meta
+    projectPath: Assets\UI\Progress-Bar-Vertical.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Progress-Bar-Vertical\empty.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-Bar-Vertical\empty.png
+    projectPath: Assets\UI\Progress-Bar-Vertical\empty.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Progress-Bar-Vertical\empty.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-Bar-Vertical\empty.png.meta
+    projectPath: Assets\UI\Progress-Bar-Vertical\empty.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Progress-Bar-Vertical\Full.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-Bar-Vertical\Full.png
+    projectPath: Assets\UI\Progress-Bar-Vertical\Full.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Progress-Bar-Vertical\Full.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-Bar-Vertical\Full.png.meta
+    projectPath: Assets\UI\Progress-Bar-Vertical\Full.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Timer.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Timer.meta
+    projectPath: Assets\UI\Timer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Timer\empty.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Timer\empty.png
+    projectPath: Assets\UI\Timer\empty.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Timer\empty.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Timer\empty.png.meta
+    projectPath: Assets\UI\Timer\empty.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Timer\full.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Timer\full.png
+    projectPath: Assets\UI\Timer\full.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UI\Timer\full.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Timer\full.png.meta
+    projectPath: Assets\UI\Timer\full.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Untitled-1.png
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Untitled-1.png
+    projectPath: Assets\Untitled-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Untitled-1.png.meta
+    fullPath: C:\Users\User\Desktop\Rachel\Assets\Untitled-1.png.meta
+    projectPath: Assets\Untitled-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: debug.log
+    fullPath: C:\Users\User\Desktop\Rachel\debug.log
+    projectPath: debug.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: FINAL BUILD!!!\Classroom Catastrophe.exe
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe.exe
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe.zip
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe.zip
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe.zip
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\app.info
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\app.info
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\app.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\boot.config
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\boot.config
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers.assets
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers.assets
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers.assets.resS
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers.assets.resS
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\globalgamemanagers.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\level0
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\level0
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\level1
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\level1
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\level1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\level1.resS
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\level1.resS
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\level1.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\level2
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\level2
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\level2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Assembly-CSharp.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Mono.Security.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Mono.Security.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\mscorlib.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\mscorlib.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\netstandard.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\netstandard.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Configuration.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Configuration.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Core.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Core.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Data.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Data.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Drawing.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Drawing.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.EnterpriseServices.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Globalization.Extensions.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Globalization.Extensions.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.IO.Compression.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Net.Http.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Net.Http.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Numerics.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Numerics.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Transactions.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Transactions.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.Linq.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Unity.Timeline.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UI.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.XRModule.dll
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\resources.assets
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\resources.assets
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\resources.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\resources.assets.resS
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\resources.assets.resS
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\resources.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Resources\unity default resources
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Resources\unity
+      default resources
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Resources\unity default
+      resources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\Resources\unity_builtin_extra
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets0.assets
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets0.assets
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets0.assets.resS
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets0.assets.resS
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.assets
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.assets
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.assets.resS
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.assets.resS
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.resource
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.resource
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets1.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets2.assets
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets2.assets
+    projectPath: FINAL BUILD!!!\Classroom Catastrophe_Data\sharedassets2.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\machine.config
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\machine.config
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\settings.map
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\settings.map
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\web.config
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\web.config
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\2.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\machine.config
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\machine.config
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\settings.map
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\settings.map
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\web.config
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\web.config
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\machine.config
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\machine.config
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\settings.map
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\settings.map
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\web.config
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\web.config
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\4.5\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\browscap.ini
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\browscap.ini
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\browscap.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\config
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\config
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    projectPath: FINAL BUILD!!!\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\UnityCrashHandler32.exe
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\UnityCrashHandler32.exe
+    projectPath: FINAL BUILD!!!\UnityCrashHandler32.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FINAL BUILD!!!\UnityPlayer.dll
+    fullPath: C:\Users\User\Desktop\Rachel\FINAL BUILD!!!\UnityPlayer.dll
+    projectPath: FINAL BUILD!!!\UnityPlayer.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GITHUB\devenv_2020-04-22_14-11-43.png
+    fullPath: C:\Users\User\Desktop\Rachel\GITHUB\devenv_2020-04-22_14-11-43.png
+    projectPath: GITHUB\devenv_2020-04-22_14-11-43.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GITHUB\devenv_2020-04-22_14-15-04.png
+    fullPath: C:\Users\User\Desktop\Rachel\GITHUB\devenv_2020-04-22_14-15-04.png
+    projectPath: GITHUB\devenv_2020-04-22_14-15-04.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

@@ -1,0 +1,4146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-04-22T13:51:46.043+01:00
+  initializedAtString: 2020-04-22T13:50:17.723+01:00
+  log:
+  - commitID: cc22ac1c55507b912bea4a513387e609c4e90cd9
+    mergeA: 
+    mergeB: 
+    authorName: Ben Keogh
+    authorEmail: axius.technoclanofficial@gmail.com
+    commitEmail: axius.technoclanofficial@gmail.com
+    commitName: Ben Keogh
+    summary: Initial
+    description: 
+    timeString: 2020-04-22T13:50:37.000+01:00
+    commitTimeString: 2020-04-22T13:50:37.000+01:00
+    changes:
+    - path: .collabignore
+      fullPath: C:\Users\User\Desktop\Rachel\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Icon_back.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Icon_back.png
+      projectPath: Assets\Icon_back.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Icon_back.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Icon_back.png.meta
+      projectPath: Assets\Icon_back.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Abilities.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Abilities.meta
+      projectPath: Assets\Materials\Abilities.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Abilities\SCAN.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Abilities\SCAN.mat
+      projectPath: Assets\Materials\Abilities\SCAN.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Abilities\SCAN.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Abilities\SCAN.mat.meta
+      projectPath: Assets\Materials\Abilities\SCAN.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\BlueBoard.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\BlueBoard.mat
+      projectPath: Assets\Materials\BlueBoard.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\BlueBoard.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\BlueBoard.mat.meta
+      projectPath: Assets\Materials\BlueBoard.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Carpet.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Carpet.mat
+      projectPath: Assets\Materials\Carpet.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Carpet.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Carpet.mat.meta
+      projectPath: Assets\Materials\Carpet.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\CloutAdd.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\CloutAdd.mat
+      projectPath: Assets\Materials\CloutAdd.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\CloutAdd.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\CloutAdd.mat.meta
+      projectPath: Assets\Materials\CloutAdd.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\DESKS.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\DESKS.mat
+      projectPath: Assets\Materials\DESKS.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\DESKS.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\DESKS.mat.meta
+      projectPath: Assets\Materials\DESKS.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Door.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Door.mat
+      projectPath: Assets\Materials\Door.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Door.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Door.mat.meta
+      projectPath: Assets\Materials\Door.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Edging.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Edging.mat
+      projectPath: Assets\Materials\Edging.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Edging.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Edging.mat.meta
+      projectPath: Assets\Materials\Edging.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Icon_back.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Icon_back.mat
+      projectPath: Assets\Materials\Icon_back.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Icon_back.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Icon_back.mat.meta
+      projectPath: Assets\Materials\Icon_back.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Materials.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Materials.meta
+      projectPath: Assets\Materials\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Materials\poster, talking, small.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Materials\poster, talking,
+        small.mat
+      projectPath: Assets\Materials\Materials\poster, talking, small.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Materials\poster, talking, small.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Materials\poster, talking,
+        small.mat.meta
+      projectPath: Assets\Materials\Materials\poster, talking, small.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Metal.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Metal.mat
+      projectPath: Assets\Materials\Metal.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Metal.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Metal.mat.meta
+      projectPath: Assets\Materials\Metal.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Monitor.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Monitor.mat
+      projectPath: Assets\Materials\Monitor.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Monitor.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Monitor.mat.meta
+      projectPath: Assets\Materials\Monitor.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Raw.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Raw.mat
+      projectPath: Assets\Materials\Raw.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Raw.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Raw.mat.meta
+      projectPath: Assets\Materials\Raw.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS.meta
+      projectPath: Assets\Materials\SOLIDS.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS\BLACK.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS\BLACK.mat
+      projectPath: Assets\Materials\SOLIDS\BLACK.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS\BLACK.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS\BLACK.mat.meta
+      projectPath: Assets\Materials\SOLIDS\BLACK.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS\CYAN.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS\CYAN.mat
+      projectPath: Assets\Materials\SOLIDS\CYAN.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS\CYAN.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS\CYAN.mat.meta
+      projectPath: Assets\Materials\SOLIDS\CYAN.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS\GREEN.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS\GREEN.mat
+      projectPath: Assets\Materials\SOLIDS\GREEN.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS\GREEN.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS\GREEN.mat.meta
+      projectPath: Assets\Materials\SOLIDS\GREEN.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS\RED.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS\RED.mat
+      projectPath: Assets\Materials\SOLIDS\RED.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\SOLIDS\RED.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\SOLIDS\RED.mat.meta
+      projectPath: Assets\Materials\SOLIDS\RED.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Table.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Table.mat
+      projectPath: Assets\Materials\Table.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Table.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Table.mat.meta
+      projectPath: Assets\Materials\Table.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Walls.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Walls.mat
+      projectPath: Assets\Materials\Walls.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Walls.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Walls.mat.meta
+      projectPath: Assets\Materials\Walls.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Whiteboard.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Whiteboard.mat
+      projectPath: Assets\Materials\Whiteboard.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Whiteboard.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\Whiteboard.mat.meta
+      projectPath: Assets\Materials\Whiteboard.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\poster, talking, small.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\poster, talking, small.png
+      projectPath: Assets\Materials\poster, talking, small.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\poster, talking, small.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Materials\poster, talking, small.png.meta
+      projectPath: Assets\Materials\poster, talking, small.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models.meta
+      projectPath: Assets\Models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Cap.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Cap.fbx
+      projectPath: Assets\Models\Cap.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Cap.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Cap.fbx.meta
+      projectPath: Assets\Models\Cap.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Dwayne Johnson.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Dwayne Johnson.fbx
+      projectPath: Assets\Models\Dwayne Johnson.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Dwayne Johnson.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Dwayne Johnson.fbx.meta
+      projectPath: Assets\Models\Dwayne Johnson.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Food.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Food.fbx
+      projectPath: Assets\Models\Food.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Food.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Food.fbx.meta
+      projectPath: Assets\Models\Food.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Low Poly Clock (1).fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Low Poly Clock (1).fbx
+      projectPath: Assets\Models\Low Poly Clock (1).fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Low Poly Clock (1).fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Low Poly Clock (1).fbx.meta
+      projectPath: Assets\Models\Low Poly Clock (1).fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Materials.meta
+      projectPath: Assets\Models\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\do sum werk 1.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Materials\do sum werk 1.mat
+      projectPath: Assets\Models\Materials\do sum werk 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\do sum werk 1.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Materials\do sum werk 1.mat.meta
+      projectPath: Assets\Models\Materials\do sum werk 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\do sum werk.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Materials\do sum werk.mat
+      projectPath: Assets\Models\Materials\do sum werk.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\do sum werk.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Materials\do sum werk.mat.meta
+      projectPath: Assets\Models\Materials\do sum werk.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters.meta
+      projectPath: Assets\Models\Posters.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\Materials.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\Materials.meta
+      projectPath: Assets\Models\Posters\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\Materials\do sum werk (1).mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\Materials\do sum
+        werk (1).mat
+      projectPath: Assets\Models\Posters\Materials\do sum werk (1).mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\Materials\do sum werk (1).mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\Materials\do sum
+        werk (1).mat.meta
+      projectPath: Assets\Models\Posters\Materials\do sum werk (1).mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\Materials\poster, ID, small .mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\Materials\poster,
+        ID, small .mat
+      projectPath: Assets\Models\Posters\Materials\poster, ID, small .mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\Materials\poster, ID, small .mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\Materials\poster,
+        ID, small .mat.meta
+      projectPath: Assets\Models\Posters\Materials\poster, ID, small .mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\Materials\poster, food, small.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\Materials\poster,
+        food, small.mat
+      projectPath: Assets\Models\Posters\Materials\poster, food, small.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\Materials\poster, food, small.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\Materials\poster,
+        food, small.mat.meta
+      projectPath: Assets\Models\Posters\Materials\poster, food, small.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\do sum werk (1).png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\do sum werk (1).png
+      projectPath: Assets\Models\Posters\do sum werk (1).png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\do sum werk (1).png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\do sum werk (1).png.meta
+      projectPath: Assets\Models\Posters\do sum werk (1).png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\poster, ID, small .png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\poster, ID, small
+        .png
+      projectPath: Assets\Models\Posters\poster, ID, small .png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\poster, ID, small .png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\poster, ID, small
+        .png.meta
+      projectPath: Assets\Models\Posters\poster, ID, small .png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\poster, food, small.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\poster, food, small.png
+      projectPath: Assets\Models\Posters\poster, food, small.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\poster, food, small.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\poster, food, small.png.meta
+      projectPath: Assets\Models\Posters\poster, food, small.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\poster, fun, small.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\poster, fun, small.png
+      projectPath: Assets\Models\Posters\poster, fun, small.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\poster, fun, small.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\poster, fun, small.png.meta
+      projectPath: Assets\Models\Posters\poster, fun, small.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\poster, late, small.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\poster, late, small.png
+      projectPath: Assets\Models\Posters\poster, late, small.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Posters\poster, late, small.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Posters\poster, late, small.png.meta
+      projectPath: Assets\Models\Posters\poster, late, small.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Scanner.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Scanner.fbx
+      projectPath: Assets\Models\Scanner.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Scanner.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Scanner.fbx.meta
+      projectPath: Assets\Models\Scanner.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Shelf export.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Shelf export.fbx
+      projectPath: Assets\Models\Shelf export.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Shelf export.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Shelf export.fbx.meta
+      projectPath: Assets\Models\Shelf export.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Shelves With Stuff.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Shelves With Stuff.fbx
+      projectPath: Assets\Models\Shelves With Stuff.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Shelves With Stuff.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Shelves With Stuff.fbx.meta
+      projectPath: Assets\Models\Shelves With Stuff.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Wall (1).fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Wall (1).fbx
+      projectPath: Assets\Models\Wall (1).fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Wall (1).fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\Wall (1).fbx.meta
+      projectPath: Assets\Models\Wall (1).fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\chair export.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\chair export.fbx
+      projectPath: Assets\Models\chair export.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\chair export.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\chair export.fbx.meta
+      projectPath: Assets\Models\chair export.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\do sum werk.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\do sum werk.png
+      projectPath: Assets\Models\do sum werk.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\do sum werk.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\do sum werk.png.meta
+      projectPath: Assets\Models\do sum werk.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\keyboard.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\keyboard.fbx
+      projectPath: Assets\Models\keyboard.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\keyboard.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\keyboard.fbx.meta
+      projectPath: Assets\Models\keyboard.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\low poly table.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\low poly table.fbx
+      projectPath: Assets\Models\low poly table.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\low poly table.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\low poly table.fbx.meta
+      projectPath: Assets\Models\low poly table.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\mug.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\mug.fbx
+      projectPath: Assets\Models\mug.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\mug.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\mug.fbx.meta
+      projectPath: Assets\Models\mug.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\pc export.fbx
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\pc export.fbx
+      projectPath: Assets\Models\pc export.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\pc export.fbx.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Models\pc export.fbx.meta
+      projectPath: Assets\Models\pc export.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\New Terrain.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\New Terrain.asset
+      projectPath: Assets\New Terrain.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\New Terrain.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\New Terrain.asset.meta
+      projectPath: Assets\New Terrain.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Particle Systems.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Particle Systems.meta
+      projectPath: Assets\Particle Systems.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Particle Systems\Sleeping.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Particle Systems\Sleeping.meta
+      projectPath: Assets\Particle Systems\Sleeping.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Particle Systems\Sleeping\New Material.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Particle Systems\Sleeping\New
+        Material.mat
+      projectPath: Assets\Particle Systems\Sleeping\New Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Particle Systems\Sleeping\New Material.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Particle Systems\Sleeping\New
+        Material.mat.meta
+      projectPath: Assets\Particle Systems\Sleeping\New Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Particle Systems\Sleeping\letter-z-icon-18-256.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Particle Systems\Sleeping\letter-z-icon-18-256.png
+      projectPath: Assets\Particle Systems\Sleeping\letter-z-icon-18-256.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Particle Systems\Sleeping\letter-z-icon-18-256.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Particle Systems\Sleeping\letter-z-icon-18-256.png.meta
+      projectPath: Assets\Particle Systems\Sleeping\letter-z-icon-18-256.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Raw.renderTexture
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Raw.renderTexture
+      projectPath: Assets\Raw.renderTexture
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Raw.renderTexture.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Raw.renderTexture.meta
+      projectPath: Assets\Raw.renderTexture.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Game.meta
+      projectPath: Assets\Scenes\Game.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Game.unity.meta
+      projectPath: Assets\Scenes\Game.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game\NavMesh.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Game\NavMesh.asset
+      projectPath: Assets\Scenes\Game\NavMesh.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game\NavMesh.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\Game\NavMesh.asset.meta
+      projectPath: Assets\Scenes\Game\NavMesh.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scenes\MainMenu.unity.meta
+      projectPath: Assets\Scenes\MainMenu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CAMERA.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CAMERA.meta
+      projectPath: Assets\Scripts\CAMERA.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CAMERA\CameraHandler.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CAMERA\CameraHandler.cs
+      projectPath: Assets\Scripts\CAMERA\CameraHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CAMERA\CameraHandler.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CAMERA\CameraHandler.cs.meta
+      projectPath: Assets\Scripts\CAMERA\CameraHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CAMERA\GreenScreen.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CAMERA\GreenScreen.meta
+      projectPath: Assets\Scripts\CAMERA\GreenScreen.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CAMERA\GreenScreen\CameraEffect.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CAMERA\GreenScreen\CameraEffect.cs
+      projectPath: Assets\Scripts\CAMERA\GreenScreen\CameraEffect.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CAMERA\GreenScreen\CameraEffect.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CAMERA\GreenScreen\CameraEffect.cs.meta
+      projectPath: Assets\Scripts\CAMERA\GreenScreen\CameraEffect.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CAMERA\GreenScreen\CameraReplacer.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CAMERA\GreenScreen\CameraReplacer.cs
+      projectPath: Assets\Scripts\CAMERA\GreenScreen\CameraReplacer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CAMERA\GreenScreen\CameraReplacer.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CAMERA\GreenScreen\CameraReplacer.cs.meta
+      projectPath: Assets\Scripts\CAMERA\GreenScreen\CameraReplacer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CHALLENGES.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES.meta
+      projectPath: Assets\Scripts\CHALLENGES.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CHALLENGES\Challenge.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Challenge.cs
+      projectPath: Assets\Scripts\CHALLENGES\Challenge.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CHALLENGES\Challenge.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\Challenge.cs.meta
+      projectPath: Assets\Scripts\CHALLENGES\Challenge.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CHALLENGES\TestChallenge.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\TestChallenge.cs
+      projectPath: Assets\Scripts\CHALLENGES\TestChallenge.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CHALLENGES\TestChallenge.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CHALLENGES\TestChallenge.cs.meta
+      projectPath: Assets\Scripts\CHALLENGES\TestChallenge.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CLOUT.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CLOUT.meta
+      projectPath: Assets\Scripts\CLOUT.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CLOUT\CIndicatorFade.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CLOUT\CIndicatorFade.cs
+      projectPath: Assets\Scripts\CLOUT\CIndicatorFade.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CLOUT\CIndicatorFade.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CLOUT\CIndicatorFade.cs.meta
+      projectPath: Assets\Scripts\CLOUT\CIndicatorFade.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CLOUT\CloutHandler.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CLOUT\CloutHandler.cs
+      projectPath: Assets\Scripts\CLOUT\CloutHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CLOUT\CloutHandler.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CLOUT\CloutHandler.cs.meta
+      projectPath: Assets\Scripts\CLOUT\CloutHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CLOUT\CloutIndicator.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CLOUT\CloutIndicator.cs
+      projectPath: Assets\Scripts\CLOUT\CloutIndicator.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CLOUT\CloutIndicator.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\CLOUT\CloutIndicator.cs.meta
+      projectPath: Assets\Scripts\CLOUT\CloutIndicator.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DAY-NIGHT.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\DAY-NIGHT.meta
+      projectPath: Assets\Scripts\DAY-NIGHT.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DAY-NIGHT\ClockScript.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\DAY-NIGHT\ClockScript.cs
+      projectPath: Assets\Scripts\DAY-NIGHT\ClockScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DAY-NIGHT\ClockScript.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\DAY-NIGHT\ClockScript.cs.meta
+      projectPath: Assets\Scripts\DAY-NIGHT\ClockScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DAY-NIGHT\DayNightHandler.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\DAY-NIGHT\DayNightHandler.cs
+      projectPath: Assets\Scripts\DAY-NIGHT\DayNightHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DAY-NIGHT\DayNightHandler.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\DAY-NIGHT\DayNightHandler.cs.meta
+      projectPath: Assets\Scripts\DAY-NIGHT\DayNightHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MAIN MENU.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\MAIN MENU.meta
+      projectPath: Assets\Scripts\MAIN MENU.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MAIN MENU\MainMenuScript.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\MAIN MENU\MainMenuScript.cs
+      projectPath: Assets\Scripts\MAIN MENU\MainMenuScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MAIN MENU\MainMenuScript.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\MAIN MENU\MainMenuScript.cs.meta
+      projectPath: Assets\Scripts\MAIN MENU\MainMenuScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PAUSE.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PAUSE.meta
+      projectPath: Assets\Scripts\PAUSE.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PAUSE\PauseScript.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PAUSE\PauseScript.cs
+      projectPath: Assets\Scripts\PAUSE\PauseScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PAUSE\PauseScript.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PAUSE\PauseScript.cs.meta
+      projectPath: Assets\Scripts\PAUSE\PauseScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PLAYER.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PLAYER.meta
+      projectPath: Assets\Scripts\PLAYER.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PLAYER\AbilityHitDetector.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PLAYER\AbilityHitDetector.cs
+      projectPath: Assets\Scripts\PLAYER\AbilityHitDetector.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PLAYER\AbilityHitDetector.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PLAYER\AbilityHitDetector.cs.meta
+      projectPath: Assets\Scripts\PLAYER\AbilityHitDetector.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PLAYER\playerMovement.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PLAYER\playerMovement.cs
+      projectPath: Assets\Scripts\PLAYER\playerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PLAYER\playerMovement.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\PLAYER\playerMovement.cs.meta
+      projectPath: Assets\Scripts\PLAYER\playerMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SOUND.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\SOUND.meta
+      projectPath: Assets\Scripts\SOUND.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SOUND\SoundManager.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\SOUND\SoundManager.cs
+      projectPath: Assets\Scripts\SOUND\SoundManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SOUND\SoundManager.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\SOUND\SoundManager.cs.meta
+      projectPath: Assets\Scripts\SOUND\SoundManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SOUND\SoundSystem.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\SOUND\SoundSystem.cs
+      projectPath: Assets\Scripts\SOUND\SoundSystem.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SOUND\SoundSystem.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\SOUND\SoundSystem.cs.meta
+      projectPath: Assets\Scripts\SOUND\SoundSystem.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TEACHER.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\TEACHER.meta
+      projectPath: Assets\Scripts\TEACHER.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TEACHER\ABILITIES.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\TEACHER\ABILITIES.meta
+      projectPath: Assets\Scripts\TEACHER\ABILITIES.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TEACHER\ABILITIES\Scan.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\TEACHER\ABILITIES\Scan.cs
+      projectPath: Assets\Scripts\TEACHER\ABILITIES\Scan.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TEACHER\ABILITIES\Scan.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\TEACHER\ABILITIES\Scan.cs.meta
+      projectPath: Assets\Scripts\TEACHER\ABILITIES\Scan.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UTILITIES.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES.meta
+      projectPath: Assets\Scripts\UTILITIES.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UTILITIES\AutoSave.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES\AutoSave.cs
+      projectPath: Assets\Scripts\UTILITIES\AutoSave.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UTILITIES\AutoSave.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES\AutoSave.cs.meta
+      projectPath: Assets\Scripts\UTILITIES\AutoSave.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UTILITIES\CustomPivot.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES\CustomPivot.cs
+      projectPath: Assets\Scripts\UTILITIES\CustomPivot.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UTILITIES\CustomPivot.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES\CustomPivot.cs.meta
+      projectPath: Assets\Scripts\UTILITIES\CustomPivot.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UTILITIES\Preserve.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES\Preserve.cs
+      projectPath: Assets\Scripts\UTILITIES\Preserve.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\UTILITIES\Preserve.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\UTILITIES\Preserve.cs.meta
+      projectPath: Assets\Scripts\UTILITIES\Preserve.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\_PRE-LEVEL.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\_PRE-LEVEL.meta
+      projectPath: Assets\Scripts\_PRE-LEVEL.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\_PRE-LEVEL\PLM.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\_PRE-LEVEL\PLM.cs
+      projectPath: Assets\Scripts\_PRE-LEVEL\PLM.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\_PRE-LEVEL\PLM.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\_PRE-LEVEL\PLM.cs.meta
+      projectPath: Assets\Scripts\_PRE-LEVEL\PLM.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\_PRE-LEVEL\WalkOut.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\_PRE-LEVEL\WalkOut.cs
+      projectPath: Assets\Scripts\_PRE-LEVEL\WalkOut.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\_PRE-LEVEL\WalkOut.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Scripts\_PRE-LEVEL\WalkOut.cs.meta
+      projectPath: Assets\Scripts\_PRE-LEVEL\WalkOut.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds.meta
+      projectPath: Assets\Sounds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Classroom sounds.mp3
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Classroom sounds.mp3
+      projectPath: Assets\Sounds\Classroom sounds.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Classroom sounds.mp3.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Classroom sounds.mp3.meta
+      projectPath: Assets\Sounds\Classroom sounds.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Door Slam.wav
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Door Slam.wav
+      projectPath: Assets\Sounds\Door Slam.wav
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Door Slam.wav.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Door Slam.wav.meta
+      projectPath: Assets\Sounds\Door Slam.wav.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Keyboard Typing Sound Effect.mp3
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Keyboard Typing Sound Effect.mp3
+      projectPath: Assets\Sounds\Keyboard Typing Sound Effect.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Keyboard Typing Sound Effect.mp3.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Keyboard Typing Sound Effect.mp3.meta
+      projectPath: Assets\Sounds\Keyboard Typing Sound Effect.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Yawning.mp3
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Yawning.mp3
+      projectPath: Assets\Sounds\Yawning.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Yawning.mp3.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\Yawning.mp3.meta
+      projectPath: Assets\Sounds\Yawning.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\phone sound 1.mp3
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\phone sound 1.mp3
+      projectPath: Assets\Sounds\phone sound 1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\phone sound 1.mp3.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\phone sound 1.mp3.meta
+      projectPath: Assets\Sounds\phone sound 1.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\phone sound.mp3
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\phone sound.mp3
+      projectPath: Assets\Sounds\phone sound.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\phone sound.mp3.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\Sounds\phone sound.mp3.meta
+      projectPath: Assets\Sounds\phone sound.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TaskDevelopmentAPI.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TaskDevelopmentAPI.meta
+      projectPath: Assets\TaskDevelopmentAPI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TaskDevelopmentAPI\Game.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TaskDevelopmentAPI\Game.unity
+      projectPath: Assets\TaskDevelopmentAPI\Game.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TaskDevelopmentAPI\Game.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TaskDevelopmentAPI\Game.unity.meta
+      projectPath: Assets\TaskDevelopmentAPI\Game.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro.meta
+      projectPath: Assets\TextMesh Pro.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Documentation.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Documentation.meta
+      projectPath: Assets\TextMesh Pro\Documentation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Documentation\TextMesh
+        Pro User Guide 2016.pdf
+      projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Documentation\TextMesh
+        Pro User Guide 2016.pdf.meta
+      projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton
+        OFL.txt
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton
+        OFL.txt.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers
+        - OFL.txt
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers
+        - OFL.txt.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic
+        Highway Sign.TTF
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway
+        Sign.TTF
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic
+        Highway Sign.TTF.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway
+        Sign.TTF.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold
+        - OFL.txt
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold
+        - OFL.txt.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader
+        Scene.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials\Crate
+        - Surface Shader Scene.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface
+        Shader Scene.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader
+        Scene.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials\Crate
+        - Surface Shader Scene.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface
+        Shader Scene.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials\Ground
+        - Logo Scene.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials\Ground
+        - Logo Scene.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader
+        Scene.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials\Ground
+        - Surface Shader Scene.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface
+        Shader Scene.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader
+        Scene.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials\Ground
+        - Surface Shader Scene.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface
+        Shader Scene.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials\Small
+        Crate_diffuse.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Materials\Small
+        Crate_diffuse.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text
+        Popup.prefab
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text
+        Popup.prefab.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro
+        - Prefab 1.prefab
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+        1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro
+        - Prefab 1.prefab.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+        1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro
+        - Prefab 2.prefab
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+        2.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro
+        - Prefab 2.prefab.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+        2.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+        to Purple - Vertical.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets\Blue to Purple - Vertical.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets\Blue to Purple - Vertical.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+        to Purple - Vertical.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets\Blue to Purple - Vertical.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets\Blue to Purple - Vertical.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+        to Light Green - Vertical.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets\Dark to Light Green - Vertical.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets\Dark to Light Green - Vertical.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+        to Light Green - Vertical.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets\Dark to Light Green - Vertical.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets\Dark to Light Green - Vertical.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+        to Dark Green - Vertical.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets\Light to Dark Green - Vertical.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets\Light to Dark Green - Vertical.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+        to Dark Green - Vertical.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets\Light to Dark Green - Vertical.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets\Light to Dark Green - Vertical.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+        to Orange - Vertical.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets\Yellow to Orange - Vertical.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets\Yellow to Orange - Vertical.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+        to Orange - Vertical.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+        Gradient Presets\Yellow to Orange - Vertical.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient
+        Presets\Yellow to Orange - Vertical.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Drop Shadow.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF - Drop Shadow.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Drop Shadow.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Drop Shadow.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF - Drop Shadow.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Drop Shadow.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Outline.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF - Outline.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Outline.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Outline.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF - Outline.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Outline.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Sunny Days.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF - Sunny Days.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Sunny Days.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Sunny Days.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF - Sunny Days.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF - Sunny Days.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF - Drop Shadow.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF - Drop Shadow.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF - Drop Shadow.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF - Drop Shadow.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF - Drop Shadow.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF - Drop Shadow.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF - Outline.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF - Outline.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF - Outline.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF - Outline.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF - Outline.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF - Outline.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF Glow.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF Glow.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF Glow.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF Glow.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF Glow.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF Glow.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF Logo.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF Logo.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF Logo.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF Logo.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF Logo.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF Logo.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+        Highway Sign SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Electronic Highway Sign SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+        Highway Sign SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+        Highway Sign SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Electronic Highway Sign SDF.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+        Highway Sign SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Metalic Green.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\LiberationSans SDF - Metalic Green.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Metalic Green.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Metalic Green.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\LiberationSans SDF - Metalic Green.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Metalic Green.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Overlay.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\LiberationSans SDF - Overlay.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Overlay.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Overlay.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\LiberationSans SDF - Overlay.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Overlay.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Soft Mask.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\LiberationSans SDF - Soft Mask.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Soft Mask.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Soft Mask.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\LiberationSans SDF - Soft Mask.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+        SDF - Soft Mask.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+        Bold SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Oswald Bold SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+        Bold SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+        Bold SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Oswald Bold SDF.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+        Bold SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF - Drop Shadow.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Roboto-Bold SDF - Drop Shadow.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF - Drop Shadow.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF - Drop Shadow.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Roboto-Bold SDF - Drop Shadow.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF - Drop Shadow.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF - Surface.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Roboto-Bold SDF - Surface.mat
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF - Surface.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF - Surface.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Roboto-Bold SDF - Surface.mat.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF - Surface.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Roboto-Bold SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Roboto-Bold SDF.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+        Assets.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default
+        Sprite Asset.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+        Assets\Default Sprite Asset.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default
+        Sprite Asset.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default
+        Sprite Asset.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+        Assets\Default Sprite Asset.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default
+        Sprite Asset.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap
+        Numbers.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+        Assets\DropCap Numbers.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap
+        Numbers.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap
+        Numbers.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+        Assets\DropCap Numbers.asset.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap
+        Numbers.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+        Pro.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single
+        Line TextMesh Pro.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+        Pro.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+        Pro.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single
+        Line TextMesh Pro.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+        Pro.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh
+        Pro.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\02
+        - Multi-line TextMesh Pro.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh
+        Pro.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh
+        Pro.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\02
+        - Multi-line TextMesh Pro.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh
+        Pro.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\03
+        - Line Justification.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\03
+        - Line Justification.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\04
+        - Word Wrapping.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\04
+        - Word Wrapping.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\05
+        - Style Tags.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\05
+        - Style Tags.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\06
+        - Extra Rich Text Examples.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text
+        Examples.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\06
+        - Extra Rich Text Examples.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text
+        Examples.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript
+        Example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\07
+        - Superscript & Subscript Example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript &
+        Subscript Example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript
+        Example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\07
+        - Superscript & Subscript Example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript &
+        Subscript Example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\08
+        - Improved Text Alignment.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text
+        Alignment.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\08
+        - Improved Text Alignment.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text
+        Alignment.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\09
+        - Margin Tag Example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\09
+        - Margin Tag Example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List
+        Example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\10
+        - Bullets & Numbered List Example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered
+        List Example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List
+        Example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\10
+        - Bullets & Numbered List Example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered
+        List Example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\11
+        - The Style Tag.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\11
+        - The Style Tag.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\12
+        - Link Example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\12
+        - Link Example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\12a
+        - Text Interactions.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\12a
+        - Text Interactions.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\13
+        - Soft Hyphenation.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\13
+        - Soft Hyphenation.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\14
+        - Multi Font & Sprites.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font &
+        Sprites.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\14
+        - Multi Font & Sprites.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font &
+        Sprites.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\15
+        - Inline Graphics & Sprites.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics
+        & Sprites.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\15
+        - Inline Graphics & Sprites.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics
+        & Sprites.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+        mode example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\16
+        - Linked text overflow mode example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+        mode example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+        mode example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\16
+        - Linked text overflow mode example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+        mode example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\17
+        - Old Computer Terminal.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer
+        Terminal.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\17
+        - Old Computer Terminal.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer
+        Terminal.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking
+        & Layout.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\18
+        - ScrollRect & Masking & Layout.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect &
+        Masking & Layout.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking
+        & Layout.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\18
+        - ScrollRect & Masking & Layout.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect &
+        Masking & Layout.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft
+        Mask.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\19
+        - Masking Texture & Soft Mask.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture
+        & Soft Mask.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft
+        Mask.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\19
+        - Masking Texture & Soft Mask.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture
+        & Soft Mask.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\20
+        - Input Field with Scrollbar.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with
+        Scrollbar.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\20
+        - Input Field with Scrollbar.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with
+        Scrollbar.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\21
+        - Script Example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\21
+        - Script Example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\22
+        - Basic Scripting Example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting
+        Example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\22
+        - Basic Scripting Example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting
+        Example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\23
+        - Animating Vertex Attributes.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex
+        Attributes.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\23
+        - Animating Vertex Attributes.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex
+        Attributes.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\24
+        - Surface Shader Example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader
+        Example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\24
+        - Surface Shader Example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader
+        Example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\25
+        - Sunny Days Example.unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\25
+        - Sunny Days Example.unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark
+        (Floating Text).unity
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating
+        Text).unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark
+        (Floating Text).unity.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating
+        Text).unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Sprites\Default
+        Sprites.png
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Sprites\Default
+        Sprites.png.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap
+        Numbers.psd
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap
+        Numbers.psd.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Brushed
+        Metal 3.jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Brushed
+        Metal 3.jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Floor
+        Cement.jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Floor
+        Cement.jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Floor
+        Tiles 1 - diffuse.jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 -
+        diffuse.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Floor
+        Tiles 1 - diffuse.jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 -
+        diffuse.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Fruit
+        Jelly (B&W).jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Fruit
+        Jelly (B&W).jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+        Diagonal (Color).jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal
+        (Color).jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+        Diagonal (Color).jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal
+        (Color).jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+        Horizontal (Color).jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal
+        (Color).jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+        Horizontal (Color).jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal
+        (Color).jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+        Vertical (Color).jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical
+        (Color).jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+        Vertical (Color).jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical
+        (Color).jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Mask
+        Zig-n-Zag.psd
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Mask
+        Zig-n-Zag.psd.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Small
+        Crate_diffuse.jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Small
+        Crate_diffuse.jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Small
+        Crate_normal.jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Small
+        Crate_normal.jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Sunny
+        Days - Seamless.jpg
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Sunny
+        Days - Seamless.jpg.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+        Text Image 1.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Text
+        Overflow - Linked Text Image 1.png
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow -
+        Linked Text Image 1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+        Text Image 1.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Text
+        Overflow - Linked Text Image 1.png.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow -
+        Linked Text Image 1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+        Text UI Screenshot.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Text
+        Overflow - Linked Text UI Screenshot.png
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow -
+        Linked Text UI Screenshot.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+        Text UI Screenshot.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Text
+        Overflow - Linked Text UI Screenshot.png.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow -
+        Linked Text UI Screenshot.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+        Pattern - Circle.psd
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+        Pattern - Circle.psd.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+        Pattern - Diagonal.psd
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+        Pattern - Diagonal.psd.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+        Pattern - Radial Double.psd
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+        Double.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+        Pattern - Radial Double.psd.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+        Double.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+        Pattern - Radial Quad.psd
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+        Quad.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+        Pattern - Radial Quad.psd.meta
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+        Quad.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Fonts.meta
+      projectPath: Assets\TextMesh Pro\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Fonts\LiberationSans
+        - OFL.txt
+      projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Fonts\LiberationSans
+        - OFL.txt.meta
+      projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+      projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+      projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources.meta
+      projectPath: Assets\TextMesh Pro\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+        Shadow.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials\LiberationSans SDF - Drop Shadow.mat
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+        Shadow.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials\LiberationSans SDF - Drop Shadow.mat.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials\LiberationSans SDF - Fallback.asset
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials\LiberationSans SDF - Fallback.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials\LiberationSans SDF - Outline.mat
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials\LiberationSans SDF - Outline.mat.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials\LiberationSans SDF.asset
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Fonts &
+        Materials\LiberationSans SDF.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\LineBreaking
+        Following Characters.txt
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\LineBreaking
+        Following Characters.txt.meta
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\LineBreaking
+        Leading Characters.txt
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\LineBreaking
+        Leading Characters.txt.meta
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF
+        Overlay.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF
+        Overlay.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+        Masking.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+        Masking.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+        Overlay.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+        Overlay.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Sprite
+        Assets.meta
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Sprite
+        Assets\EmojiOne.asset
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Sprite
+        Assets\EmojiOne.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Style Sheets.meta
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Style Sheets\Default
+        Style Sheet.asset
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\Style Sheets\Default
+        Style Sheet.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\TMP Settings.asset
+      projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Sprites.meta
+      projectPath: Assets\TextMesh Pro\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Sprites\EmojiOne
+        Attribution.txt
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Sprites\EmojiOne
+        Attribution.txt.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Sprites\EmojiOne.json
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Sprites\EmojiOne.png
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI.meta
+      projectPath: Assets\UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout.meta
+      projectPath: Assets\UI\Clout.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout\CloutIcon.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\CloutIcon.asset
+      projectPath: Assets\UI\Clout\CloutIcon.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout\CloutIcon.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\CloutIcon.asset.meta
+      projectPath: Assets\UI\Clout\CloutIcon.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout\CloutIcon.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\CloutIcon.png
+      projectPath: Assets\UI\Clout\CloutIcon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout\CloutIcon.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\CloutIcon.png.meta
+      projectPath: Assets\UI\Clout\CloutIcon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout\LikeSystem.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\LikeSystem.asset
+      projectPath: Assets\UI\Clout\LikeSystem.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout\LikeSystem.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\LikeSystem.asset.meta
+      projectPath: Assets\UI\Clout\LikeSystem.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout\LikeSystem.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\LikeSystem.png
+      projectPath: Assets\UI\Clout\LikeSystem.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Clout\LikeSystem.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Clout\LikeSystem.png.meta
+      projectPath: Assets\UI\Clout\LikeSystem.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Menus.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus.meta
+      projectPath: Assets\UI\Menus.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Menus\pause title.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus\pause title.png
+      projectPath: Assets\UI\Menus\pause title.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Menus\pause title.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus\pause title.png.meta
+      projectPath: Assets\UI\Menus\pause title.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Menus\title screen.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus\title screen.png
+      projectPath: Assets\UI\Menus\title screen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Menus\title screen.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Menus\title screen.png.meta
+      projectPath: Assets\UI\Menus\title screen.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Black SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Black SDF.asset
+      projectPath: Assets\UI\Muli-Black SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Black SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Black SDF.asset.meta
+      projectPath: Assets\UI\Muli-Black SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Black.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Black.ttf
+      projectPath: Assets\UI\Muli-Black.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Black.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Black.ttf.meta
+      projectPath: Assets\UI\Muli-Black.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Bold SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Bold SDF.asset
+      projectPath: Assets\UI\Muli-Bold SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Bold SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Bold SDF.asset.meta
+      projectPath: Assets\UI\Muli-Bold SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Bold.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Bold.ttf
+      projectPath: Assets\UI\Muli-Bold.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Bold.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Bold.ttf.meta
+      projectPath: Assets\UI\Muli-Bold.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Light SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Light SDF.asset
+      projectPath: Assets\UI\Muli-Light SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Light SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Light SDF.asset.meta
+      projectPath: Assets\UI\Muli-Light SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Light.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Light.ttf
+      projectPath: Assets\UI\Muli-Light.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Light.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Light.ttf.meta
+      projectPath: Assets\UI\Muli-Light.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Medium SDF.asset
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Medium SDF.asset
+      projectPath: Assets\UI\Muli-Medium SDF.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Medium SDF.asset.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Medium SDF.asset.meta
+      projectPath: Assets\UI\Muli-Medium SDF.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Medium.ttf
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Medium.ttf
+      projectPath: Assets\UI\Muli-Medium.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Muli-Medium.ttf.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Muli-Medium.ttf.meta
+      projectPath: Assets\UI\Muli-Medium.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Progress-ring.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-ring.meta
+      projectPath: Assets\UI\Progress-ring.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Progress-ring\empty.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-ring\empty.png
+      projectPath: Assets\UI\Progress-ring\empty.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Progress-ring\empty.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-ring\empty.png.meta
+      projectPath: Assets\UI\Progress-ring\empty.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Progress-ring\full.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-ring\full.png
+      projectPath: Assets\UI\Progress-ring\full.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI\Progress-ring\full.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\UI\Progress-ring\full.png.meta
+      projectPath: Assets\UI\Progress-ring\full.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\galaxy logo bleh.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\galaxy logo bleh.png
+      projectPath: Assets\galaxy logo bleh.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\galaxy logo bleh.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\galaxy logo bleh.png.meta
+      projectPath: Assets\galaxy logo bleh.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\pencil icon.png
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\pencil icon.png
+      projectPath: Assets\pencil icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\pencil icon.png.meta
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\pencil icon.png.meta
+      projectPath: Assets\pencil icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\User\Desktop\Rachel\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\User\Desktop\Rachel\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\User\Desktop\Rachel\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: debug.log
+      fullPath: C:\Users\User\Desktop\Rachel\debug.log
+      projectPath: debug.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 0ac202b9c0a2e4646dd15b296f0223000319e1f4
+    mergeA: 
+    mergeB: 
+    authorName: Ben Keogh
+    authorEmail: axius.technoclanofficial@gmail.com
+    commitEmail: axius.technoclanofficial@gmail.com
+    commitName: Ben Keogh
+    summary: Initial commit
+    description: 
+    timeString: 2020-04-22T13:50:16.000+01:00
+    commitTimeString: 2020-04-22T13:50:16.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\User\Desktop\Rachel\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\User\Desktop\Rachel\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\User\Desktop\Rachel\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
